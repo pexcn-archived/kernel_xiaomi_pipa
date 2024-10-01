@@ -16,7 +16,7 @@
 #include <linux/rculist.h>
 
 #include <generated/utsrelease.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include "nvmet.h"
 
 /*

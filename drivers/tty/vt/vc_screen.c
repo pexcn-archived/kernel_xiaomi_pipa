@@ -48,7 +48,7 @@
 
 #include <linux/uaccess.h>
 #include <asm/byteorder.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #undef attr
 #undef org

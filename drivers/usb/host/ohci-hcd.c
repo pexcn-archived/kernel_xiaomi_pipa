@@ -43,7 +43,7 @@
 
 #include <asm/io.h>
 #include <asm/irq.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <asm/byteorder.h>
 
 

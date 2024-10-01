@@ -20,7 +20,7 @@
 #include <linux/slab.h>
 #include <linux/delay.h>
 #include <linux/sched.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <linux/of_gpio.h>
 #include <linux/platform_device.h>
 #include <linux/regmap.h>

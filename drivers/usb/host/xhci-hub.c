@@ -10,7 +10,7 @@
 
 #include <linux/gfp.h>
 #include <linux/slab.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #include "xhci.h"
 #include "xhci-trace.h"

@@ -22,7 +22,7 @@
 #include <soc/qcom/socinfo.h>
 #include <linux/soc/qcom/smem.h>
 #include <soc/qcom/boot_stats.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #define BUILD_ID_LENGTH 32
 #define CHIP_ID_LENGTH 32

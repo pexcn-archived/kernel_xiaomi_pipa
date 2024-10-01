@@ -14,7 +14,7 @@
 #include <linux/errno.h>
 #include <linux/crypto.h>
 #include <asm/byteorder.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 static const u32 fk[4] = {
 	0xa3b1bac6, 0x56aa3350, 0x677d9197, 0xb27022dc

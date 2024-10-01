@@ -42,7 +42,7 @@
 #include <linux/highmem.h> /* For flush_kernel_dcache_page */
 #include <linux/module.h>
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #include <scsi/scsi.h>
 #include <scsi/scsi_cmnd.h>

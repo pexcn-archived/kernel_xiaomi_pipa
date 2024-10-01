@@ -21,7 +21,7 @@
  *
  */
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 struct h4_recv_pkt {
 	u8  type;	/* Packet type */

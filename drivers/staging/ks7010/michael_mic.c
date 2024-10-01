@@ -6,7 +6,7 @@
  *   Copyright (C) 2009 Renesas Technology Corp.
  */
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <linux/bitops.h>
 #include <linux/string.h>
 #include "michael_mic.h"

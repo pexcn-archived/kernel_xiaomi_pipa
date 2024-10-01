@@ -13,7 +13,7 @@
 #include <linux/platform_device.h>
 #include <linux/spi/spi.h>
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #define SSI_TIMEOUT_MS		2000
 #define SSI_MAX_CLK_DIVIDER	254

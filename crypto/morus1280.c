@@ -10,7 +10,7 @@
  * any later version.
  */
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <crypto/algapi.h>
 #include <crypto/internal/aead.h>
 #include <crypto/internal/skcipher.h>

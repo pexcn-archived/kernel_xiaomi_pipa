@@ -4,7 +4,7 @@
 #include <linux/proc_fs.h>
 #include <linux/uaccess.h>
 #include <linux/sysctl.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #define DEBUG(enable, tagged, ...)				\
 	do{							\

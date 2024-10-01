@@ -35,7 +35,7 @@
 #include <linux/suspend.h>
 #include <linux/types.h>
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #ifdef CONFIG_ACPI_PROCFS_POWER
 #include <linux/proc_fs.h>

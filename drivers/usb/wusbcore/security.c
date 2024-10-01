@@ -14,7 +14,7 @@
 #include <linux/random.h>
 #include <linux/export.h>
 #include "wusbhc.h"
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 static void wusbhc_gtk_rekey_work(struct work_struct *work);
 

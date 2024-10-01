@@ -42,12 +42,12 @@
 #include <media/v4l2-event.h>
 #include <media/v4l2-device.h>
 #include <media/v4l2-dev.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <linux/interrupt.h>
 #include <linux/of_gpio.h>
 #include <linux/of_irq.h>
 #include <linux/kfifo.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #define RW_Kernel_ENG
 

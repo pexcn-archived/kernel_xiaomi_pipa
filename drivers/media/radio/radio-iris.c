@@ -29,7 +29,7 @@
 #include <media/v4l2-device.h>
 #include <media/v4l2-ioctl.h>
 #include <media/radio-iris.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 static unsigned int rds_buf = 100;
 static int oda_agt;

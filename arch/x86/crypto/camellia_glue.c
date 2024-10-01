@@ -23,7 +23,7 @@
  *
  */
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <linux/crypto.h>
 #include <linux/init.h>
 #include <linux/module.h>

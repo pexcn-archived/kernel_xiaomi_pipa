@@ -15,7 +15,7 @@
 #ifndef __MT76X0U_DMA_H
 #define __MT76X0U_DMA_H
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <linux/skbuff.h>
 
 #define MT_DMA_HDR_LEN			4

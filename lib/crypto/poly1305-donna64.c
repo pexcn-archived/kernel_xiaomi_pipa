@@ -7,7 +7,7 @@
  */
 
 #include <linux/kernel.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <crypto/internal/poly1305.h>
 
 typedef __uint128_t u128;

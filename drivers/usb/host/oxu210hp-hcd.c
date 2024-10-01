@@ -26,7 +26,7 @@
 #include <linux/io.h>
 
 #include <asm/irq.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #include <linux/irq.h>
 #include <linux/platform_device.h>

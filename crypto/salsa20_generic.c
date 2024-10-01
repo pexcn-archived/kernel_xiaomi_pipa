@@ -19,7 +19,7 @@
  *
  */
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <crypto/internal/skcipher.h>
 #include <linux/module.h>
 

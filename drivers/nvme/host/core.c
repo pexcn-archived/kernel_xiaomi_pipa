@@ -27,7 +27,7 @@
 #include <linux/nvme_ioctl.h>
 #include <linux/t10-pi.h>
 #include <linux/pm_qos.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #define CREATE_TRACE_POINTS
 #include "trace.h"

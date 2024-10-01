@@ -12,7 +12,7 @@
  * more details.
  */
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include "trace.h"
 
 static const char *nvme_trace_create_sq(struct trace_seq *p, u8 *cdw10)

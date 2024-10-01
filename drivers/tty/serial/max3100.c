@@ -47,7 +47,7 @@
 #include <linux/tty_flip.h>
 #include <linux/types.h>
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #include <linux/serial_max3100.h>
 

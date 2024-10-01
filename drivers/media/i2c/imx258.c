@@ -8,7 +8,7 @@
 #include <linux/pm_runtime.h>
 #include <media/v4l2-ctrls.h>
 #include <media/v4l2-device.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #define IMX258_REG_VALUE_08BIT		1
 #define IMX258_REG_VALUE_16BIT		2

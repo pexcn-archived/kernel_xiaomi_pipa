@@ -7,7 +7,7 @@
 #include <linux/i2c.h>
 #include <linux/workqueue.h>
 #include <linux/sysfs.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #include <idtp9418.h>
 #include <linux/regmap.h>

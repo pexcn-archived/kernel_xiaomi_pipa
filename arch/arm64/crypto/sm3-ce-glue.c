@@ -10,7 +10,7 @@
 
 #include <asm/neon.h>
 #include <asm/simd.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include <crypto/internal/hash.h>
 #include <crypto/sm3.h>
 #include <crypto/sm3_base.h>

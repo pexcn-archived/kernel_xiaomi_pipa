@@ -27,7 +27,7 @@
 #include <linux/uio.h>
 #include <linux/magic.h>
 #include <linux/iversion.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 #include "ctree.h"
 #include "disk-io.h"
 #include "transaction.h"

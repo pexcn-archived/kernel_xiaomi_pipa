@@ -12,7 +12,7 @@
  * 2 of the License, or (at your option) any later version.
  */
 
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #include <linux/interrupt.h>
 #include <linux/pci.h>

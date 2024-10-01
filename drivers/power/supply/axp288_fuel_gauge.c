@@ -30,7 +30,7 @@
 #include <linux/iio/consumer.h>
 #include <linux/debugfs.h>
 #include <linux/seq_file.h>
-#include <asm/unaligned.h>
+#include <linux/unaligned.h>
 
 #define PS_STAT_VBUS_TRIGGER		(1 << 0)
 #define PS_STAT_BAT_CHRG_DIR		(1 << 2)
