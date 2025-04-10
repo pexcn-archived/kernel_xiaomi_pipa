@@ -17,7 +17,7 @@ jobs:
           kernel-url: https://github.com/pexcn-archived/kernel_xiaomi_pipa.git
           kernel-dir: false
           kernel-branch: clang-lto
-          config: pipa_user_defconfig
+          config: vendor/pipa_user_defconfig
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
